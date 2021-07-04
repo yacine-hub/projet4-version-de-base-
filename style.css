@@ -823,6 +823,12 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
 }
+h5{
+    font-size: 45px;
+}
+li{
+    font-size: 48px;
+}
 
 @media (max-width: 1024px) {
     .bloc {
