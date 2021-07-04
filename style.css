@@ -106,7 +106,14 @@ a:hover {
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
 }
-
+.deuxieme{
+    font-weight: 600;
+    color: black;
+}
+.partie2{
+    font-size: 17px;
+    color:black;
+}
 .d-bloc .icon-round,
 .d-bloc .icon-square,
 .d-bloc .icon-rounded,
