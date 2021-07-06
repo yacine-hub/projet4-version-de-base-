@@ -1047,3 +1047,9 @@ li{
         text-align: center;
     }
 }
+a:focus{
+    border: 2px solid black;
+}
+button:focus{
+    border: 5px solid black;
+}
